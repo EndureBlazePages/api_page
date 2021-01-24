@@ -1,0 +1,44 @@
+[
+  {
+    "emu_type": "GBA",
+    "emu_title": "My Boy!",
+    "image": "https://api.imyan.ren/ka/image/emulator/emulator_gba.png",
+    "emu_tag": "emulator_gba"
+  },
+  {
+    "emu_type": "SFC",
+    "emu_title": "Snes9x EX+",
+    "image": "https://api.imyan.ren/ka/image/emulator/emulator_sfc.png",
+    "emu_tag": "emulator_sfc"
+  },
+  {
+    "emu_type": "N64",
+    "emu_title": "Tendo64",
+    "image": "https://api.imyan.ren/ka/image/emulator/emulator_n64.png",
+    "emu_tag": "emulator_n64"
+  },  
+  {
+    "emu_type": "NDS",
+    "emu_title": "DraStic",
+    "image": "https://api.imyan.ren/ka/image/emulator/emulator_nds.png",
+    "emu_tag": "emulator_nds"
+  },
+  {
+    "emu_type": "NGC&WII",
+    "emu_title": "Dolphin",
+    "image": "https://api.imyan.ren/ka/image/emulator/emulator_wii.png",
+    "emu_tag": "emulator_wii"
+  },
+  {
+    "emu_type": "GB&GBC",
+    "emu_title": "My OldBoy!",
+    "image": "https://api.imyan.ren/ka/image/emulator/emulator_gb_gbc.png",
+    "emu_tag": "emulator_gb"
+  },
+  {
+    "emu_type": "FC",
+    "emu_title": "NES.emu",
+    "image": "https://api.imyan.ren/ka/image/emulator/emulator_fc.png",
+    "emu_tag": "emulator_fc"
+  }
+]
