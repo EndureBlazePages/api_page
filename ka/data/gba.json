@@ -1,0 +1,13 @@
+[
+  {
+    "title": "星之卡比 梦之泉DX",
+    "image": "https://api.imyan.ren/ka/image/game/mengzhiquandx.jpg",
+    "download_link": {
+      "jp": "1",
+      "us": "2",
+      "cn": "3",
+      "测试": "4"
+    },
+    "tag": "gba_mzqdx"
+  }
+]
